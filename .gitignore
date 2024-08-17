@@ -1,0 +1,13 @@
+# Exclude mp3 directory
+mp3/
+
+# Exclude mp4 directory
+mp4/
+
+# Exclude mp3-1 directory
+mp3-1/
+
+# Exclude .venv directory
+.venv/
+
+*.webm
